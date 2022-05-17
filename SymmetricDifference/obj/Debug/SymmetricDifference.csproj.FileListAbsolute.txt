@@ -1,0 +1,7 @@
+D:\SymmetricDifference\SymmetricDifference\bin\Debug\SymmetricDifference.exe.config
+D:\SymmetricDifference\SymmetricDifference\bin\Debug\SymmetricDifference.exe
+D:\SymmetricDifference\SymmetricDifference\bin\Debug\SymmetricDifference.pdb
+D:\SymmetricDifference\SymmetricDifference\obj\Debug\SymmetricDifference.csprojResolveAssemblyReference.cache
+D:\SymmetricDifference\SymmetricDifference\obj\Debug\SymmetricDifference.csproj.CoreCompileInputs.cache
+D:\SymmetricDifference\SymmetricDifference\obj\Debug\SymmetricDifference.exe
+D:\SymmetricDifference\SymmetricDifference\obj\Debug\SymmetricDifference.pdb
